@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate Trophy Graph
-        uses: ryo-ma/github-profile-trophy@v2
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: hamed-saadallah
           theme: chalk
