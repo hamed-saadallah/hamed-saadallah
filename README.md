@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=hamed-saadallah&label=VISITORS&color=1e3a8a&style=flat&logo=github" alt="Visitor count" />
 </div>
 
-- 🔭 <b>Currently working on</b> — freelance
+- 🔭 <b>Currently working on</b> — Niji   https://ai.niji.fr/
 - 🌱 <b>Currently learning</b> — ML
 - 📫 <b>Portfolio</b> — https://hamedsaadallah.com/
 
@@ -66,7 +66,7 @@
 
 <h3 align="center">🎓 Education</h3>
 
-- **Bachelor, Computer Science** — University El Manar (2005 – 2009)
+- **Bachelor, Computer Science** — University El Manar - Tunisia (2005 – 2009)
 
 <h3 align="center">📜 Certifications</h3>
 
