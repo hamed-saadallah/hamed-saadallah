@@ -50,15 +50,6 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" alt="OpenCV" />
 </div>
 
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=hamed-saadallah&theme=dark&show_icons=true&show=commits%2Cprs%2Cissues%2Ccontributions%2Crank&hide_border=false&count_private=true&line_height=28" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-saadallah&theme=dark&layout=compact&hide_border=false&card_width=480" alt="Top languages" /></td>
-</tr></table>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/profile-stats?username=hamed-saadallah&theme=dark" alt="Summary" />
-</div>
-
 <h3 align="center">Connect with me</h3>
 <div align="center">
 <a href="https://github.com/hamed-saadallah" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
