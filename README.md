@@ -52,7 +52,7 @@
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
-<a href="https://github.com/hamed-saadallah" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="[https://github.com/hamed-saadallah](https://www.linkedin.com/in/hamedsaadallah/)" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <h3 align="center">🎓 Education</h3>
