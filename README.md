@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=hamed-saadallah&label=VISITORS&color=1e3a8a&style=flat&logo=github" alt="Visitor count" />
 </div>
 
-- 🔭 <b>Currently working on</b> — Niji   https://ai.niji.fr/
+- 🔭 <b>Currently working on</b> — AI agents and Automations
 - 🌱 <b>Currently learning</b> — ML
 - 📫 <b>Portfolio</b> — https://hamedsaadallah.com/
 
