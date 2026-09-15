@@ -15,9 +15,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=flat-square" alt="Next.js" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&style=flat-square" alt="Framer Motion" />
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat-square" alt="Vite" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=flat-square" alt="Figma" />
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square" alt="Python" />
