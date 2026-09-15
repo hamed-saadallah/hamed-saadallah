@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/api?lines=Frontend+engineer+%26+UI+tinkerer%3BI+make+the+web+feel+a+little+more+delightful&color=2f81f7&center=true&vCenter=true&width=600&height=56&size=20&pause=1000&repeat=true" alt="Frontend engineer &amp; UI tinkerer | I make the web feel a little more delightful" />
+<img src="https://readme-typing-svg.vercel.app/api?lines=Agentic+AI+engineer+Building+autonomous+workflows+that+make+automation+feel+a+little+more+alive&color=2f81f7&center=true&vCenter=true&width=600&height=56&size=20&pause=1000&repeat=true" alt="Frontend engineer &amp; UI tinkerer | I make the web feel a little more delightful" />
 <h1 align="center">Hi 👋, I&#39;m hamed-saadallah 👋</h1>
 </div>
 
@@ -9,7 +9,7 @@
 
 - 🔭 <b>Currently working on</b> — AI agents and Automations
 - 🌱 <b>Currently learning</b> — ML
-- 📫 <b>Portfolio</b> — https://hamedsaadallah.com/
+- 📫 <b>Portfolio</b> — https://www.hamedsaadallah.com/
 
 ### 🛠️ Tech Stack
 
