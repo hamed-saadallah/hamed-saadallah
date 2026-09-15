@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/api?lines=Agentic+AI+engineer%3BI+Building+autonomous+workflows%3BI+that+make+automation+feel+a+little+more+alive&color=2f81f7&center=true&vCenter=true&width=600&height=56&size=20&pause=1000&repeat=true" alt="Frontend engineer &amp; UI tinkerer | I make the web feel a little more delightful" />
+<img src="https://readme-typing-svg.vercel.app/api?lines=Agentic+AI+engineer%3BI+Building+autonomous+workflows%3BI+that+make+automation+feel+a+little+more+alive&color=2f81f7&center=true&vCenter=true&width=600&height=56&size=20&pause=1000&repeat=true" alt="" />
 <h1 align="center">Hi 👋, I&#39;m hamed-saadallah 👋</h1>
 </div>
 
